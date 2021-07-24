@@ -18,3 +18,7 @@ SOC includes following peripherals:
 
 # Demo
 - [Linux booting on NexysA7](https://asciinema.org/a/424616?t=10)
+
+# Get started
+- Sources and build instructions: [PU32](https://github.com/fontamsoc/pu32)
+- [Documentation](https://github.com/fontamsoc/docs)
