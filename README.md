@@ -17,7 +17,7 @@ SOC includes following peripherals:
 - Connect to serial port using 115200n8
 
 # Demo
-- [Linux booting on NexysA7](https://asciinema.org/a/424616?t=10)
+- [Linux booting on NexysA7](https://asciinema.org/a/424616?t=21)
 
 # Get started
 - Sources and build instructions: [PU32](https://github.com/fontamsoc/pu32)
