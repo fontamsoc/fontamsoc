@@ -1,7 +1,7 @@
 Linux-enabled SoC supporting Wishbone4 and AXI4-Lite peripherals.
 
 CPU implements following features:
-- Instruction & Data Caches.
+- Instruction & Data Caches, N-way configurable.
 - Pipelined Hardware Multiplication & Division.
 - MMU (Memory Management Unit) with Hardware Filled TLB (Translation Lookaside Buffer).
 
