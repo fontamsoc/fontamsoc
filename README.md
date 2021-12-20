@@ -6,11 +6,12 @@ CPU implements following features:
 - MMU (Memory Management Unit) with Hardware Filled TLB (Translation Lookaside Buffer).
 
 SOC includes following peripherals:
-- DMA controller.
+- GPIO.
+- DMA.
 - Interrupt controller.
 - SD-Card controller supporting MMC, SDSC, SDHC and SDXC Cards.
 - LiteDRAM supporting DDR2 DDR3 SDRAM.
-- UART controller.
+- UART.
 
 # Quick usage guide
 - Download [disk image](https://github.com/fontamsoc/pu32/releases/latest/download/pu32-vmlinux.img.xz), decompress and flash it to an sdcard using either `dd if=pu32-vmlinux.img of=/dev/<sdx> bs=1M oflag=sync status=progress` or [BalenaEtcher](https://www.balena.io/etcher)
