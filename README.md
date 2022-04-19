@@ -1,4 +1,4 @@
-Linux-enabled SoC supporting Wishbone4 and AXI4-Lite peripherals.
+FPGA Linux-enabled SoC supporting Wishbone4 and AXI4-Lite peripherals.
 
 CPU implements following features:
 - Instruction & Data Caches, n-way configurable.
