@@ -6,8 +6,8 @@ CPU implements following features:
 - MMU (Memory Management Unit) with Hardware Filled TLB (Translation Lookaside Buffer) n-way configurable.
 
 SOC includes following peripherals:
+- HDMI/VGA FrameBuffer.
 - GPIO (General Purpose Input/Output).
-- DMA (Direct Memory Access).
 - Interrupt controller.
 - SD-Card controller supporting MMC, SDSC, SDHC and SDXC Cards.
 - LiteDRAM supporting DDR2 DDR3 SDRAM.
